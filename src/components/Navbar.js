@@ -6,7 +6,7 @@ function Navbar() {
 
       <div className="container nav-container">
 
-        <h2 className="logo">Kevin Patel</h2>
+        <h2 className="logo">Portfolio</h2>
 
         <nav>
           <ul className="nav-links">
