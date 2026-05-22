@@ -4,15 +4,28 @@ function Home() {
 
       <div className="container home-content">
 
-        <h1>Hello, I'm Kevin Patel</h1>
+        <p className="intro">HELLO I'M</p>
+
+        <h1>Kevin Patel</h1>
 
         <h3>Frontend ReactJS Developer</h3>
 
-        <p>
-          I build responsive and modern websites using ReactJS.
+        <p className="home-text">
+          I create beautiful, responsive and modern web applications
+          using ReactJS and frontend technologies.
         </p>
 
-        <button className="btn">Download Resume</button>
+        <div className="home-buttons">
+
+          <button className="btn">
+            Download CV
+          </button>
+
+          <a href="#contact" className="btn btn-outline">
+            Contact Me
+          </a>
+
+        </div>
 
       </div>
 

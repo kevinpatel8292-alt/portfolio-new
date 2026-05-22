@@ -3,11 +3,15 @@ function Projects() {
   const projects = [
     {
       title: "Gym Management System",
-      desc: "Gym management website."
+      desc: "Gym management website using HTML, CSS, JavaScript and Python."
     },
     {
       title: "Weather App",
-      desc: "Weather app using API."
+      desc: "Weather application using API integration."
+    },
+    {
+      title: "Todo App",
+      desc: "Task management app using ReactJS."
     }
   ];
 

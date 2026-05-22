@@ -5,6 +5,7 @@ function Skills() {
     "CSS",
     "JavaScript",
     "ReactJS",
+    "Bootstrap",
     "SQL"
   ];
 

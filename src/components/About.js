@@ -7,7 +7,9 @@ function About() {
         <h2 className="section-title">About Me</h2>
 
         <p className="about-text">
-          Passionate ReactJS developer creating responsive websites.
+          I am a passionate ReactJS developer focused on creating
+          professional, responsive and user-friendly websites with
+          modern frontend technologies.
         </p>
 
       </div>

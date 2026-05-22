@@ -8,6 +8,8 @@ function Contact() {
 
         <p>Email: kevin@example.com</p>
 
+        <p>Phone: +91 9876543210</p>
+
       </div>
 
     </section>
